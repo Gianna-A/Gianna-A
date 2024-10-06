@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Gianna Addae
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Security, Web Development and Advanced Algorithms
-- 📫 How to reach me ...
-- ⚡ Fun fact: I can solve a Rubik’s cube!
+👋 Hi, I’m Gianna
+
+I'm currently a Computer Science Student at the University of Surrey.
+
+- 🌱 Currently learning: Computer Security, Web Development and Advanced Algorithms.
+- 🎮 Hobbies: In my free time, I enjoy gaming, solving my rubix cube, and exploring new tech.
 
 <!---
 Gianna-A/Gianna-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

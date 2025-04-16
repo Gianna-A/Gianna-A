@@ -2,7 +2,7 @@
 
 I'm currently a Computer Science student at the University of Surrey.
 
-- 🎮 Hobbies: In my free time, I enjoy gaming, particularly Nintendo titles, and challenging myself with speedcubing (currently working on improving my Rubik’s cube time). I'm also passionate about exploring new tech and staying up-to-date with the latest innovations.
+- 🎮 Hobbies: In my free time, I enjoy playing games and puzzles such as solitare, chess, and sudoku! I'm also passionate about exploring new tech and staying up-to-date with the latest innovations.
 
 <!---
 Gianna-A/Gianna-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 👋 Hi, I’m Gianna
 
-I'm currently a Computer Science student at the University of Surrey.
+I'm currently a Computer Science student.
 
 - 🎮 Hobbies: In my free time, I enjoy playing games and puzzles such as solitare, chess, and sudoku! I'm also passionate about exploring new tech and staying up-to-date with the latest innovations.
 
